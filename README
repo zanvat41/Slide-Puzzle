@@ -1,0 +1,11 @@
+puzzleGenerator.py usage(This file was provided by Stony Brook University CSE537 teaching group, led by Professor Niranjan Balasubramanian):
+
+python puzzleGenerator.py <N> <K - number of moves> <OUTPATH>
+
+python puzzleGenerator.py <N> <OUTPATH>
+
+
+
+puzzleSolver.py usage:
+
+python puzzleSolver.py <#Algorithm> <N> <H> <INPUT_FILE_PATH><OUTPUT_FILE_PATH>
